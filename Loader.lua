@@ -1,6 +1,6 @@
 --[[ 🔑 AUTO FARM HUB — LOADER (ไฟล์นี้แจกลูกค้าได้ ไม่มีสคริปต์จริงอยู่ข้างใน) ]]
 local API       = "https://autofarm-key.susidfudiek.workers.dev"
-local CONTACT   = "ซื้อ key ติดต่อ: youbroke_myheart
+local CONTACT   = "ซื้อ key ติดต่อ: youbroke_myheart"
 local SAVE_FILE = "AutoFarmHub_key.txt"
  
 local Players     = game:GetService("Players")
